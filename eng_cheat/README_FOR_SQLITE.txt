@@ -1,7 +1,8 @@
-﻿using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Data.Entity.Infrastructure;
-using Microsoft.EntityFrameworkCore;
+Microsoft.EntityFrameworkCore.Tools   - package!
+
+EntityFrameworkCore\Add-Migration InitialMigration
+
+
 
 namespace eng_cheat
 {
